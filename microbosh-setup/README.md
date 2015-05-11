@@ -1,6 +1,6 @@
 # Setup Micro Bosh Deployment VM
 
-<a href="https://azuredeploy.net/" target="_blank">
+<a href="https://portal.azure.com/" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
